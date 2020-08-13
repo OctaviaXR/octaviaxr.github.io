@@ -173,7 +173,7 @@ p {
 }
 
 .top-banner {
-  background-image: url("https://cdn.glitch.com/131a8b35-e597-4414-8fdd-db72f9de090e%2Forb%202%20(joel%20naren).png?v=1597195465305");
+  background-image: url("img/background.png");
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
@@ -215,7 +215,7 @@ p {
 }
 
 .parallax {
-  background-image: url("https://cdn.glitch.com/131a8b35-e597-4414-8fdd-db72f9de090e%2Forb%202%20(joel%20naren).png?v=1597195465305");
+  background-image: url("img/background.png");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -230,7 +230,7 @@ p {
 
 #mc_embed_signup {
 /*   background: #fff; */
-  background-image: url("https://cdn.glitch.com/131a8b35-e597-4414-8fdd-db72f9de090e%2Forb%202%20(joel%20naren).png?v=1597195465305");
+  background-image: url("img/background.png");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -279,7 +279,7 @@ p {
 }
 
 .team {
-  background-image: url("https://cdn.glitch.com/131a8b35-e597-4414-8fdd-db72f9de090e%2Forb%202%20(joel%20naren).png?v=1597195465305");
+  background-image: url("img/background.png");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -433,7 +433,7 @@ input[type="submit"]:hover {
 
 /* Add a background color and some padding around the form */
 .contact {
-  background-image: url("https://cdn.glitch.com/131a8b35-e597-4414-8fdd-db72f9de090e%2Forb%202%20(joel%20naren).png?v=1597195465305");
+  background-image: url("img/background.png");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
