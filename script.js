@@ -78,6 +78,16 @@ spanMax.onclick = function() {
   modalMax.style.display = "none";
 };
 
+var modalZack = document.getElementById("modalZack");
+var zack = document.getElementById("zack");
+zack.onclick = function() {
+  modalZack.style.display = "block";
+};
+var spanZack = document.getElementsByClassName("closeZack")[0];
+spanZack.onclick = function() {
+  modalZack.style.display = "none";
+};
+
 var modalSignup = document.getElementById("modalSignup");
 var signup = document.getElementById("mailing-list");
 signup.onclick = function() {
